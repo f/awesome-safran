@@ -16,3 +16,4 @@ Safran ile ilgili linkler
   - [PHP](http://github.com/aybarscengaver/safran) by [@aybarscengaver](http://github.com/aybarscengaver)
   - [C#](https://github.com/marcopascha/Safran) by [@marcopascha](https://github.com/marcopascha)
   - [Objective-C](https://github.com/s/SafranCLI) by [@s](https://github.com/s)
+  - [Swift](https://github.com/sedatciftci/Safran-CLI) by [@sedatciftci](https://github.com/sedatciftci)
