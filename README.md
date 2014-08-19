@@ -19,5 +19,6 @@ Safran ile ilgili linkler
   - [PHP](http://github.com/aybarscengaver/safran) by [@aybarscengaver](http://github.com/aybarscengaver)
   - [Python](http://github.com/emre/safran) by [@emre](http://github.com/emre)
   - [Ruby](http://github.com/sdogruyol/safran) by [@sdogruyol](http://github.com/sdogruyol)
+  - [Scala](https://github.com/mertkavi/safran) by [@mertkavi](https://github.com/mertkavi)
   - [Swift](https://github.com/sedatciftci/Safran-CLI) by [@sedatciftci](https://github.com/sedatciftci)
   
