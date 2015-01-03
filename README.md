@@ -8,6 +8,7 @@ Safran ile ilgili linkler
   - [AWK](http://github.com/ustun/safran-perl) by [@ustun](http://github.com/ustun)
   - [Bash](http://github.com/ustun/safran-perl) by [@ustun](http://github.com/ustun)
   - [C](https://github.com/halitalptekin/safran-cli) by [@halitalptekin](https://github.com/halitalptekin/safran-cli)
+  - [Clojure](https://github.com/turhn/safran-clj) by [@turhn](https://github.com/turhn)
   - [C#](https://github.com/marcopascha/Safran) by [@marcopascha](https://github.com/marcopascha)
   - [C#](https://github.com/VictorTomaili/Safran.io-Console) by [@victortomaili](https://github.com/VictorTomaili)
   - [Go](http://github.com/vural/safran) by [@vural](http://github.com/vural)
